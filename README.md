@@ -1,1 +1,2 @@
-# cs101
+# Дневничок Ксюшеньки
+![](resources/images/edinorog.png)
