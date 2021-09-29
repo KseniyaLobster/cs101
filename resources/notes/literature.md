@@ -32,5 +32,12 @@
 * *[Введение в Linux](https://stepik.org/course/73/promo)*
 * *[Математическая логика и теория алгоритмов](https://stepik.org/course/48679/promo)*
 * *[Введение в архитектуру ЭВМ. Элементы операционных систем](https://stepik.org/course/253/promo)*
+* *[Основы теории информации](https://stepik.org/course/11488/promo)*
+* *[Основы программирования](https://stepik.org/course/5482/promo)*
+* *[Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/promo)*
+* *[JavaScript для начинающих](https://stepik.org/course/2223/promo)*
+* *[Программирование на Python](https://stepik.org/course/67/promo)*
+* *["Поколение Python": курс для начинающих](https://stepik.org/course/58852/promo)*
+
 
 ![](../images/ded.png )

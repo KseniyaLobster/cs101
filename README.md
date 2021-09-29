@@ -2,6 +2,6 @@
 ![](resources/images/edinorog.png)
 
 
-###Че поделаем
+### Че поделаем
 
 [1. Список литературы](resources/notes/literature.md)
